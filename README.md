@@ -41,11 +41,7 @@ Once you've trained your custom object detection model, the next step is deployi
 *   **Multi-Model Support:** Deploy multiple specialized models for different detection tasks (e.g., person detection, obstacle avoidance, target tracking).
 
 ### Deployment Steps
-1. **Export Your Model:** Use the provided export scripts to convert your trained weights to the Petoi-compatible format (ONNX/TensorFlow Lite).
-2. **Upload to Robot:** Transfer the exported model files to your Petoi robot using USB or wireless transfer.
-3. **Configure Vision Pipeline:** Update the robot's configuration file to specify which model to use and set detection confidence thresholds.
-4. **Test & Calibrate:** Run live detection tests and adjust parameters for optimal performance in your environment.
-5. **Deploy to Production:** Once satisfied with performance, finalize deployment and the robot will use your custom model for autonomous vision tasks.
+1. Follow instruction in the link: [Petoi AI Vision]https://docs-example.gitbook.io/petoi-ai-vision/advanced-development-and-application-of-ai-vision-modules/deploy-model-to-sensecraft
 
 ### Hardware Requirements
 *   **Petoi Robot Series:** Compatible with all current Petoi models with embedded vision capability.
