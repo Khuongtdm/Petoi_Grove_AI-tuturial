@@ -25,9 +25,10 @@ The easiest way to get started is by using Google Colab. You don't need a powerf
 
 ### Option 2: Local Setup (Advanced)
 If you prefer to train locally on your own machine with a dedicated GPU:
-1. Clone this repository to your local machine.
-2. Follow the workspace setup script in the tutorial to create an anchored `Petoi_Workspace` on your drive.
-3. Use the provided Python scripts to structure your datasets and begin local training. 
+1. Open our [Google Colab Notebook](https://colab.research.google.com/drive/1aI8qhm68j9JntMN_tRY9NFXVe6mNuoJP).
+2. Follow the workspace setup script in the tutorial "Local setup"
+3. Use the provided Python scripts to structure your datasets and begin local training.
+4. Switch back to the cloud environment to export (also in the GitBook) 
 
 ## 📖 Documentation & Guides
 
