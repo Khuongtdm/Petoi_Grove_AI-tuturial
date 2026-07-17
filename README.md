@@ -41,7 +41,7 @@ Once you've trained your custom object detection model, the next step is deployi
 *   **Multi-Model Support:** Deploy multiple specialized models for different detection tasks (e.g., person detection, obstacle avoidance, target tracking).
 
 ### Deployment Steps
-1. Follow instruction in the link: [Petoi AI Vision]https://docs-example.gitbook.io/petoi-ai-vision/advanced-development-and-application-of-ai-vision-modules/deploy-model-to-sensecraft
+1. Follow instruction in the link: [Petoi AI Vision](https://docs-example.gitbook.io/petoi-ai-vision/advanced-development-and-application-of-ai-vision-modules/deploy-model-to-sensecraft)
 
 ### Hardware Requirements
 *   **Petoi Robot Series:** Compatible with all current Petoi models with embedded vision capability.
