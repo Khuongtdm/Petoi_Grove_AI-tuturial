@@ -1,6 +1,8 @@
-# Petoi Grove AI Tutorial
+# Petoi AI Vision Tutorial
 
-Welcome to the **Petoi Grove AI Tutorial**! This project provides an accessible, streamlined environment for training and exporting custom object detection models for Petoi robots. 
+Welcome to the **Petoi AI Vision Tutorial**! This project provides an accessible, streamlined environment for training and exporting custom object detection models for Petoi robots. 
+
+![Alt Text](https://drive.google.com/uc?id=17iRg2YvYRnSiGPN2MlPsbcZIYyJxruBa)   
 
 Inspired by the need to make AI vision more approachable, this repository is designed specifically for non-CS users, hobbyists, and educators. It abstracts away the complex setup processes, allowing you to focus on training powerful vision models for your robots.
 
